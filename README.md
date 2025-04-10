@@ -7,8 +7,8 @@ A simple Laravel-based URL shortener that allows encoding long URLs to shortened
 1. Clone the repo:
 
    ```bash
-   git clone https://your-repository-url.git
-   cd your-repository-directory
+   git clone https://github.com/westo27/url-shortener
+   cd url-shortener
    ```
 2. Serve the app:
 
