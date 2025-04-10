@@ -10,7 +10,12 @@ A simple Laravel-based URL shortener that allows encoding long URLs to shortened
    git clone https://github.com/westo27/url-shortener
    cd url-shortener
    ```
-2. Serve the app:
+
+2. Install dependencies:
+   ```bash
+   composer install
+   ```
+3. Serve the app:
 
    ```bash
    php artisan serve
